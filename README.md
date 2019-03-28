@@ -1,6 +1,8 @@
 # Raycaster
 
-## Building
+![]()
+
+## How to build it
 
 ```sh
 make
